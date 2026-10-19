@@ -1,0 +1,11 @@
+# Python & temp files
+__pycache__/
+*.pyc
+*.temp
+downloaded_media/
+downloaded_media∕/
+downloaded_videos/
+download_media.py
+extract_gallery.py
+process_media.py
+.system_generated/
